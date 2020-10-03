@@ -10,11 +10,11 @@
 
 先读取dict存入dic列表，对应以下代码
 
-![](截图\1.PNG)
+![](https://github.com/qkgoalkeeper/FMM-word-segmentation/blob/master/截图/1.PNG)
 
 再同理读取文章存入sentence列表，对应以下代码
 
-![](截图\2.PNG)
+![](https://github.com/qkgoalkeeper/FMM-word-segmentation/blob/master/截图/2.PNG)
 
 
 
@@ -26,11 +26,11 @@
 
 用最大匹配法分句，对应以下代码
 
-![](截图\3.PNG)
+![](https://github.com/qkgoalkeeper/FMM-word-segmentation/blob/master/截图/3.PNG)
 
 然后可以得到corpus.out.txt的结果
 
-![](截图\9.PNG)
+![](https://github.com/qkgoalkeeper/FMM-word-segmentation/blob/master/截图/9.PNG)
 
 
 
@@ -38,22 +38,22 @@
 
 先读取要比较的两个文件，对应以下代码
 
-![](截图\4.PNG)
+![](https://github.com/qkgoalkeeper/FMM-word-segmentation/blob/master/截图/4.PNG)
 
 初始化全局三个变量，对应以下代码
 
-![](截图\5.PNG)
+![](https://github.com/qkgoalkeeper/FMM-word-segmentation/blob/master/截图/5.PNG)
 
 用双指针法计算每行相同个数，对应以下代码
 
-![](截图\6.PNG)
+![](https://github.com/qkgoalkeeper/FMM-word-segmentation/blob/master/截图/6.PNG)
 
 输出PRF的答案并存储到corpus.prf.txt中，代码和结果如下
 
-![](截图\6.5.PNG)
+![](https://github.com/qkgoalkeeper/FMM-word-segmentation/blob/master/截图/6.5.PNG)
 
-![](截图\8.PNG)
+![](https://github.com/qkgoalkeeper/FMM-word-segmentation/blob/master/截图/8.PNG)
 
 最后计算总的200行prf的值并输出，对应以下代码
 
-![](截图\7.PNG)
+![](https://github.com/qkgoalkeeper/FMM-word-segmentation/blob/master/截图/7.PNG)
